@@ -1,4 +1,3 @@
-warp://auto:0/?ifp=5-10&ifps=10-20&ifpd=20-100#MehdiWarp_IR&&detour=auto:0/?ifp=5-10&ifps=10-20&ifpd=20-100#MehdiWarp_DE
 warp://auto:0/?ifp=10-20#MehdiWarp_IR&&detour=auto:0/?ifp=10-20
 warp://auto:0/?ifp=10-100#MehdiWarp_IR&&detour=auto:0/?ifp=10-100
 warp://auto:0/?ifp=1-200#MehdiWarp_IR&&detour=auto:0/?ifp=1-200
