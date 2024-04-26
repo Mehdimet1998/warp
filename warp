@@ -1,7 +1,5 @@
-warp://auto:0/?ifp=10-20#MehdiWarp_IR&&detour=warp://auto:0/?ifp=10-20
-warp://auto:0/?ifp=10-100#MehdiWarp_IR&&detour=warp://auto:0/?ifp=10-100
-warp://auto:0/?ifp=1-200#MehdiWarp_IR&&detour=warp://auto:0/?ifp=1-200
-warp://auto:0/?ifp=50-100#MehdiWarp_IR&&detour=warp://auto:0/?ifp=50-100
-warp://auto:0/?ifp=1-500#MehdiWarp_IR&&detour=warp://auto:0/?ifp=1-500
-warp://auto:0/?ifp=1-5#MehdiWarp_IR&&detour=warp://auto:0/?ifp=1-5
-warp://auto:0/?ifp=1-2#MehdiWarp_IR&&detour=warp://auto:0/?ifp=1-2
+warp://auto:0/?ifp=10-20&ifps=10-20&ifpd=10-20#MehdiWarp_IR&&detour=warp://auto:0/?ifp=10-20&ifps=10-20&ifpd=10-20#MehdiWarp_DE
+warp://auto:0/?ifp=10-20#MehdiWarp
+warp://auto:0/?ifp=5-10#MehdiWarp
+warp://auto:0/?ifp=1-5#MehdiWarp
+warp://auto:0/?ifp=10-15#MehdiWarp
