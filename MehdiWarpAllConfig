@@ -1,11 +1,2 @@
-//profile-title: base64:8J+UpSBXQVJQIPCflKU=
-//profile-update-interval: 24
-//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/hiddify
-//profile-web-page-url: https://hiddify.com
-
-#attention! do not use p1 and p2 in more than two configs otherwise confilicts may occure
-#ifpm is about mode we have currently 6 modes. 
-
 warp://auto4?ifp=10-500&ifpd=2-5&ifpm=m4#IR-ipv4&&detour=warp://auto4?ifp=10-500&ifpd=2-5&ifpm=m4#DE-ipv4
 warp://auto6?ifp=10-500&ifpd=2-5&ifpm=m4#IR-ipv6&&detour=warp://auto6?ifp=10-500&ifpd=2-5&ifpm=m4#DE-ipv6
