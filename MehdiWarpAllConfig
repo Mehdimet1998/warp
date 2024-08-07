@@ -1,2 +1,2 @@
-warp://auto4?ifp=10-500&ifpd=2-5&ifpm=m4#IR-ipv4&&detour=warp://auto4?ifp=10-500&ifpd=2-5&ifpm=m4#DE-ipv4
-warp://auto6?ifp=10-500&ifpd=2-5&ifpm=m4#IR-ipv6&&detour=warp://auto6?ifp=10-500&ifpd=2-5&ifpm=m4#DE-ipv6
+warp://auto4?ifp=40-80&ifps=40-100&ifpd=2-6&ifpm=m4#IR&&detour=warp://auto4?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m4#DE
+warp://auto6?ifp=40-80&ifps=40-100&ifpd=2-6&ifpm=m4#IR&&detour=warp://auto6?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m4#DE
