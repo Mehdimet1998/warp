@@ -7,7 +7,7 @@
 #attention! do not use p1 and p2 in more than two configs otherwise confilicts may occure
 #ifpm is about mode we have currently 6 modes. 
 
-warp://@auto4/?ifp=1-3&ifpm=m4&&detour=warp://@auto4/?ifp=1-3&ifpm=m4#WoW
+warp://auto4/?ifp=1-3&ifpm=m4&&detour=warp://auto4/?ifp=1-3&ifpm=m4#WoW
 
 
 #For g and h mode, you can use hex bytes between each _, with each part ranging from 00 to FF. You can also select more hex bytes to randomly choose between them.
